@@ -1,0 +1,23 @@
+.product-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.product-card img {
+    max-width: 80%;
+}
+
+.product-card .buttons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.product-card .buttons button {
+    margin: 5px;
+}

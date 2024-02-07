@@ -1,0 +1,17 @@
+.product-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.title-container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-style: oblique;
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+
